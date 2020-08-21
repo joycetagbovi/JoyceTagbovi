@@ -1,7 +1,7 @@
 ### Hi there Joyce Tagbovi 👋
 
 ####  UI Engineer
-![ UI Engineer](https://miro.medium.com/max/1200/0*IM0ufbaLrfxTTSis)
+![ UI Engineer](https://i.postimg.cc/xTv8SM0Q/Pink-Clouds-Cute-Cosmic-General-Twitch-Banner.png)
 
 I am a junior UI Engineer, UX/UI designer, and Webflow designer.
 SwiftUI Enthusiasm.
