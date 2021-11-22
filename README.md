@@ -5,7 +5,7 @@
 
 I am a junior UI Engineer, UX/UI designer, and Webflow developer.
 React Enthusiasm.
-I am currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(webflow), and developing mobile apps with Swift S.E.O, Web Performance.
+I am currently passionate about JAMstack, Progressive Web Apps, Headless CMS, Nocode(webflow), and developing mobile apps with React Native. S.E.O, Web Performance.
 
 Code Skills:  REACT / JS / HTML / CSS / 
 
