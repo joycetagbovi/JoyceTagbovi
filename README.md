@@ -12,7 +12,7 @@ I'm a passionate UI Engineer and Webflow developer with growing interests in bac
 
 **Backend & DevOps:**
 - Node.js / Express / Prisma / PostgreSQL / MongoDB
-- C# / .NET / AWS / REST APIs
+
 
 
 **Tools & Skills:**
